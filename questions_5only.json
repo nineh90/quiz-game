@@ -1,0 +1,76 @@
+[{
+    "question": "Was ist die nationale Blume Japans?",
+    "answers": [{
+        "answer": "Tulpe",
+        "result": false
+    },{
+        "answer": "Kirschblüte",
+        "result": true
+    },{
+        "answer": "Ahorn",
+        "result": false
+    },{
+        "answer": "Gänseblümchen",
+        "result": false
+    }]
+},{
+    "question": "Wie kastriert man einen Kühlschrank?",
+    "answers": [{
+        "answer": "Aufreißen, Eier raus, Tür zu!",
+        "result": true
+    },{
+        "answer": "Man kann keinen Kühlschrank kastrieren du Idiot",
+        "result": false
+    },{
+        "answer": "Das wüsst ich auch gerne",
+        "result": false
+    },{
+        "answer": "Is mir doch egal!!",
+        "result": false
+    }]
+},{
+    "question": "Aus welcher Stadt kommen die Beatles ?",
+    "answers": [{
+        "answer": "London",
+        "result": false
+    },{
+        "answer": "Manchester",
+        "result": false
+    },{
+        "answer": "Hamburg",
+        "result": false
+    },{
+        "answer": "Liverpool",
+        "result": true
+    }]
+},{
+    "question": "Wer ist der größte Kackvogel ?",
+    "answers": [{
+        "answer": "Stephan",
+        "result": false
+    },{
+        "answer": "Nils",
+        "result": false
+    },{
+        "answer": "Erwin",
+        "result": true
+    },{
+        "answer": "Kevin",
+        "result": false
+    }]
+},{
+    "question": "Wie viele Streifen sind auf der US-Flagge?",
+    "answers": [{
+        "answer": "13",
+        "result": true
+    },{
+        "answer": "9",
+        "result": false
+    },{
+        "answer": "3",
+        "result": false
+    },{
+        "answer": "14",
+        "result": false
+    }]
+}]

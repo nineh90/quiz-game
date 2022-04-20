@@ -1,0 +1,241 @@
+[{
+    "question": "Was ist die nationale Blume Japans?",
+    "answers": [{
+        "answer": "Tulpe",
+        "result": false
+    },{
+        "answer": "Kirschblüte",
+        "result": true
+    },{
+        "answer": "Ahorn",
+        "result": false
+    },{
+        "answer": "Gänseblümchen",
+        "result": false
+    }]
+},{
+    "question": "Wie kastriert man einen Kühlschrank?",
+    "answers": [{
+        "answer": "Aufreißen, Eier raus, Tür zu!",
+        "result": true
+    },{
+        "answer": "Man kann keinen Kühlschrank kastrieren du Idiot",
+        "result": false
+    },{
+        "answer": "Das wüsst ich auch gerne",
+        "result": false
+    },{
+        "answer": "Is mir doch egal!!",
+        "result": false
+    }]
+},{
+    "question": "Aus welcher Stadt kommen die Beatles ?",
+    "answers": [{
+        "answer": "London",
+        "result": false
+    },{
+        "answer": "Manchester",
+        "result": false
+    },{
+        "answer": "Hamburg",
+        "result": false
+    },{
+        "answer": "Liverpool",
+        "result": true
+    }]
+},{
+    "question": "Wer ist der größte Kackvogel ?",
+    "answers": [{
+        "answer": "Stephan",
+        "result": false
+    },{
+        "answer": "Nils",
+        "result": false
+    },{
+        "answer": "Erwin",
+        "result": true
+    },{
+        "answer": "Kevin",
+        "result": false
+    }]
+},{
+    "question": "Wie viele Streifen sind auf der US-Flagge?",
+    "answers": [{
+        "answer": "13",
+        "result": true
+    },{
+        "answer": "9",
+        "result": false
+    },{
+        "answer": "3",
+        "result": false
+    },{
+        "answer": "14",
+        "result": false
+    }]
+},{
+    "question": "Von wem stammt das Gemälde der Mona Lisa?",
+    "answers": [{
+        "answer": "Picasso",
+        "result": false
+    },{
+        "answer": "van Gogh",
+        "result": false
+    },{
+        "answer": "da Vinci",
+        "result": true
+    },{
+        "answer": "Monet",
+        "result": false
+    }]
+},{
+    "question": "Für was steht die Abkürzung 'GmbH'?",
+    "answers": [{
+        "answer": "Geh mal Bier holen",
+        "result": false
+    },{
+        "answer": "Gesellschaft mit bekannter Haftung",
+        "result": false
+    },{
+        "answer": "Geschäft mit beschränkter Haftung",
+        "result": false
+    },{
+        "answer": "Gesellschaft mit beschränkter Haftung",
+        "result": true
+    }]
+},{
+    "question": "Welche Stadt benutzt das Autokennzeichen 'F'?",
+    "answers": [{
+        "answer": "Frankfurt Oder",
+        "result": true
+    },{
+        "answer": "Fridingen am Fluß",
+        "result": false
+    },{
+        "answer": "Flensburg",
+        "result": false
+    },{
+        "answer": "Frankenberg",
+        "result": false
+    }]
+},{
+    "question": "Wie heißt Indiens Hauptstadt?",
+    "answers": [{
+        "answer": "Peking",
+        "result": false
+    },{
+        "answer": "Neu-Dehli",
+        "result": true
+    },{
+        "answer": "Bangkok",
+        "result": false
+    },{
+        "answer": "Mumbai",
+        "result": false
+    }]
+},{
+    "question": "Wie hieß der erste deutsche Bundeskanzler?",
+    "answers": [{
+        "answer": "Ludwig Erhard",
+        "result": false
+    },{
+        "answer": "Willy Brandt",
+        "result": false
+    },{
+        "answer": "Helmut Schmidt",
+        "result": false
+    },{
+        "answer": "Konrad Adenauer",
+        "result": true
+    }]
+},{
+    "question": "Wie nennt man die Wasserkanäle in den alten Holländischen Städten?",
+    "answers": [{
+        "answer": "Trachten",
+        "result": false
+    },{
+        "answer": "Grachten",
+        "result": true
+    },{
+        "answer": "Achten",
+        "result": false
+    },{
+        "answer": "Wachten",
+        "result": false
+    }]
+},{
+    "question": "Was haben Neuseeland und die Niederlande gemeinsam",
+    "answers": [{
+        "answer": "Es gibt in beiden Ländern mehr Fahrräder als Menschen",
+        "result": false
+    },{
+        "answer": "Neuseeland wurde nach einer niederländischen Provinz benannt",
+        "result": true
+    },{
+        "answer": "Sie produzieren in etwa die gleiche Menge Kiwis",
+        "result": false
+    },{
+        "answer": "Beide liegen auf dem gleichen Längengrad",
+        "result": false
+    }]
+},{
+    "question": "Warum sollte direkt nach dem Essen kein Kaffee getrunken werden",
+    "answers": [{
+        "answer": "Kaffee vermindert die Eisenaufnahme",
+        "result": true
+    },{
+        "answer": "Kaffee beschleunigt die Kalorienaufnahme",
+        "result": false
+    },{
+        "answer": "Kaffee lässt einen schneller wieder Hungrig werden",
+        "result": false
+    },{
+        "answer": "Kaffee verlangsamt die Verdauung",
+        "result": false
+    }]
+},{
+    "question": "Welchen Trick nutzen Forellenbarsche laut neuesten Erkenntnissen bei der Jagd?",
+    "answers": [{
+        "answer": "Sie fordern mit dem Kopf wackelnd Hilfe von Muränen an",
+        "result": true
+    },{
+        "answer": "Sie basteln sich einen Tarnmantel aus Plankton",
+        "result": false
+    },{
+        "answer": "Sie stellen sich Tod",
+        "result": false
+    },{
+        "answer": "Sie verwenden einen Köder",
+        "result": false
+    }]
+},{
+    "question": "Welcher ist der größte Afrikanische See?",
+    "answers": [{
+        "answer": "Albertsee",
+        "result": false
+    },{
+        "answer": "Victoriasee",
+        "result": true
+    },{
+        "answer": "Tanganjikasee",
+        "result": false
+    },{
+        "answer": "Kiwusee",
+        "result": false
+    }]
+},{ 
+    "question": "Warum können Bäume nicht höher als etwa 130 Meter werden?",
+    "answers": [{
+        "answer": "Statik des Baumes verändert seine Standsicherheit",
+        "result": false
+    },{
+        "answer": "Wurzeln verkümmern durch das erdrückende Gewicht",
+        "result": false
+    },{
+        "answer": "Schwerkraft verhindert den Wassertransport",
+        "result": true
+    },{
+        "answer": "Über 130 Meter wird die Atmosphäre zu dünn",
+        "result": false
+    }]
+}]

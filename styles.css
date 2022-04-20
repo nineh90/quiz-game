@@ -1,0 +1,101 @@
+.content-wrapper {
+    background-color: #f8f9fa;
+}
+.navbar>.container-fluid {
+    justify-content: center;
+}
+.question-container {
+    background-color: grey;
+    text-align: center;
+    width: 500px;
+    margin: 1rem auto;
+}
+
+.question-wrapper button {
+    width: calc(50% - 0.5rem);
+    margin-bottom: 1rem;
+}
+
+#questions > div {
+    width: 500px;
+    margin: 0 auto 1rem;
+    
+}
+
+.answer-button.success {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.answer-button.error {
+    background-color: red;
+    color: white;
+}
+
+.submit-btn-container {
+    margin-top: -1rem;
+    
+}
+#game, #end-screen {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+    
+   
+}
+
+#start-screen {
+    display: flex;
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 50px;
+    margin-top: 80px;
+    box-shadow: 10px 10px 10px 10px;
+    background-color: rgb(91, 255, 104);
+}
+#questions{
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 80px;
+    box-shadow: 10px 10px 10px 10px;
+    background-color: rgb(91, 255, 104);
+}
+
+
+#submit-btn {
+    margin-top: 50px;
+    border: 1px solid;
+    background-color: rgb(91, 255, 104);
+    color: black;
+    font-size: 50px;
+    box-shadow: 10px 10px 10px 10px;
+    border-radius: 50px;
+     
+}
+
+
+
+#backtoStart{
+    border-radius: 50px;
+    border: 1px rgb(91, 255, 104);
+    background-color: rgb(91, 255, 104);
+    color: black;
+    font-size: 50px;
+   
+}
+
+p {
+    color: purple;
+}
+
+#end-screen{
+    border-radius: 50px;
+    border: 2px solid;
+    padding: 20px;
+    margin-top: 80px;
+    box-shadow: 5px 5px ;
+    background-color: rgb(91, 255, 104);
+}
